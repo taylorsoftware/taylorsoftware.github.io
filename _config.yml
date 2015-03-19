@@ -1,5 +1,6 @@
 url: http://taylorsoftware.github.io/taylorsoftware
-baseurl: http://taylorsoftware.github.io/taylorsoftware
+baseurl: /taylorsoftware/
+
 
 # Site settings
 title: Taylor Software
