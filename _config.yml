@@ -8,8 +8,8 @@ email: paul@taylorsoftware.co.za
 description: "Software and application development. Mobile apps, architecture consulting and web applications custom made"
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 72c02c
-  secondary: 307D7E  
+  primary: 00CCFF
+  secondary: 337ab7
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -53,12 +53,12 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
