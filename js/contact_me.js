@@ -19,6 +19,7 @@ $(function() {
             }
             $.ajax({
                 url: "//formspree.io/paul@taylorsoftware.co.za", 
+                crossDomain: true,
                 type: "POST",
                 data: {
                     name: name,
